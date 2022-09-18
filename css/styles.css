@@ -102,7 +102,9 @@ a{
 
 .img-me{
     margin:70px;
-    width:10%;
+    width:15%;
+    height:25%;
+    border-radius: 50%;
 }
 
 .img-coding{
