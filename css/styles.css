@@ -59,9 +59,10 @@ p {
 
 /*Title Image*/
 .title-image {
-    width:30%;
+    width:40%;
     transform: rotate(25deg);
     position: absolute;
+    right:50%;
 }
 
 /*Features section*/
